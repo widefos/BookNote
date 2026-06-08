@@ -4,8 +4,8 @@
   "title": "Greet in Chinese",
   "titleGenerationStatus": "success",
   "createdAt": 1777780354472,
-  "updatedAt": 1777783007228,
-  "lastResponseAt": 1777783007228,
+  "updatedAt": 1780923039509,
+  "lastResponseAt": 1780923039509,
   "sessionId": "9e273e1e-c7d6-47d3-b637-41a0dfdecad5",
   "providerState": {
     "providerSessionId": "9e273e1e-c7d6-47d3-b637-41a0dfdecad5",
@@ -47,13 +47,13 @@
     }
   },
   "usage": {
-    "model": "haiku",
-    "inputTokens": 953,
+    "model": "sonnet",
+    "inputTokens": 1521,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 99968,
+    "cacheReadInputTokens": 112000,
     "contextWindow": 200000,
-    "contextTokens": 100921,
-    "percentage": 50,
+    "contextTokens": 113521,
+    "percentage": 57,
     "contextWindowIsAuthoritative": true
   }
 }
