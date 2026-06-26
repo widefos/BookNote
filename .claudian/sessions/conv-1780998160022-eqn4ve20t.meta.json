@@ -1,0 +1,23 @@
+{
+  "id": "conv-1780998160022-eqn4ve20t",
+  "providerId": "claude",
+  "title": "Organize requested content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780998160022,
+  "updatedAt": 1781000975144,
+  "lastResponseAt": 1781000975143,
+  "sessionId": "9f75e800-f9c3-4685-8eb5-5a58caf78b74",
+  "providerState": {
+    "providerSessionId": "9f75e800-f9c3-4685-8eb5-5a58caf78b74"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 134,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 48896,
+    "contextWindow": 200000,
+    "contextTokens": 49030,
+    "percentage": 25,
+    "contextWindowIsAuthoritative": true
+  }
+}
